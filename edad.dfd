@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+an
+1
+0
+2
+aa
+1
+0
+4
+1
+27
+'ingrese año de nacimiento'
+5
+1
+2
+an
+4
+1
+20
+'ingrese año actual'
+5
+1
+2
+aa
+6
+1
+4
+edad
+5
+aa-an
+4
+1
+15
+'su edad' ,edad
+7
+0
+1
+7
+edad>18
+6
+1
+1
+a
+15
+'menor de edad'
+13
+6
+1
+1
+a
+15
+'mayor de edad'
+13
+4
+1
+13
+'usted es' ,a
+1
